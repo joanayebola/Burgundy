@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burgundy</title>
+    <link href="burgundy.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="bar">
+        <center>Free Delivery on all orders above $10. <button class="promo">Shop Now</button></center>
+    </div>
+    <div class="menu">
+        <img src="burgundy logo.jpg" class="logo">
+
+
+        <div class="header">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="home.html">About</a></li>
+            <li><a href="home.html">Services</a></li>
+            <li><a href="home.html">Portfolio</a></li>
+            <li><a href="home.html">Blog</a></li>
+            <li><a href="home.html">Contact</a></li>
+        </div>
+    </div>
+
+    <img src="undraw_passing_by_0un9.svg" class="passing">
+    <p class="intro">Comfortable training fits</p>
+    <h1 class="motto">Smart Solution for Comfortable Training Fits.</h1>
+    <p class="about"><b>Bur<span class="burgundy">gundy</b></span> is a sleek, beautifully designed trainig fits that
+        includes materials, sizes
+        and styles for comfort. The outfits are 100% cotton and all sizes inclusive</p>
+    <form>
+        <input type="email" class="email" placeholder="enter your email address">
+    </form>
+    <button class="subscribe">Subscribe</button>
+
+    <center>
+        <h2>Bur<span class="burgundy">gundy</span> is a solutions oriented brand creating the next generation of
+            underwear, loungewear and shapewear</h2>
+    </center>
+    <div class="acceptance">Reprsenting Body Acceptance, Positivity and Comfortability</div>
+    <div class="high_shine">
+        <center><b>
+                <p class="high">High Shine</center>
+        </p></b>
+        <center><img src="undraw_starlink_3r0a.svg" class="shine"></center>
+        <p class="shine_outfit">Designed in premium glossy leather,, this dress makes every occasion look luxurious.
+            Crafted with a panelled
+            fitted bodice and flared midi skirt</p>
+    </div>
+    <div class="comfort">
+        <b>
+            <center>
+                <p class="comfort_heading">Comfortable</p>
+            </center>
+        </b>
+        <center><img src="undraw_starlink_3r0a.svg" class="comfort_logo"></center>
+        <p class="comfort_outfit"> Keep scrolling to find the perfect easy (and comfortable) outfit for tomorrow
+            morning—from easy tees and
+            trousers to cropped sweaters</p>
+    </div>
+    <div class="Attractive">
+        <center> <b>
+                <p class="attractive_heading">
+                    Attractive
+                </p>
+            </b>
+        </center>
+        <center><img src="undraw_starlink_3r0a.svg" class="attractive_logo"></center>
+        <p class="attractive_outfit">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere eos nam aut,
+            placeat quas suscipit, alias
+            nihil q.</p>
+    </div>
+
+    <div class="features">
+        <b>
+            <p class="features_heading">All the features to expect</p>
+        </b>
+        <div class="premade">
+            <b>
+                <p class="premade_materials">Tons of pre - made materials</p>
+            </b>
+            <p>Combine materials from Burgundy's vast component and create beautiful pieces.</p>
+
+        </div>
+        <div class="integration">
+            <b>
+                <p class="cms">Complete CMS integration</p>
+            </b>
+            <p>Facilisis ac eget mauris nulla enim a diam. Posuere vel eleifend augue laoreet non praesent ultrices..
+            </p>
+
+        </div>
+        <div class="stellar">
+            <b>
+                <p class="stellar_heading">Stellar after-sales support</p>
+            </b>
+            <p>Facilisis ac eget mauris nulla enim a diam. Posuere vel eleifend augue laoreet non praesent ultrices..
+            </p>
+        </div>
+    </div>
+    <img src="undraw_inlove_b9ay.svg" class="features_image">
+
+    <div class="company">
+        <center><b>
+                <p class="company_heading">You'll be in good company.</p>
+            </b></center>
+        <center>
+            <p class="company_outfits">A powerful suite of outfits and materials to help you look attractive and comfortable.</p>
+                <center><p class="company_p"> Burgundy outfits
+                    are perfect for trainings of almost any kind</p></center>
+        </center>
+        <center><button class="company_button">Shop Collaborations</button></center>
+    </div>
+    <footer>
+  
+  <div class="quick_links">
+    <ul class="tips">
+        <li class="quick"><b>Quick Links</b></li>
+        <li>Work</li> 
+        <li>Services</li>
+        <li>Services</li>
+        <li>Tips & Tricks</li>
+    </ul>
+  </div>  
+   
+    
+  <div class="support">
+    <ul class="contact">
+        <li class="support_heading"><b>Support</b></li>
+        <li>FAQ</li>
+        <li>Submit Ticket</li>
+        <li>Contact us</li>
+    </ul>
+  </div>
+
+  <div class="newsletter">
+    <p class="news_heading"><b>Newsletter</b></p>
+    <p>Subscribe newsletter to get updates..</p>
+    <input type="email" placeholder="Enter email" class="newsletter_email">
+    <button class="newsletter_sub">Subscribe</button>
+  </div>
+  <div class="copyright">
+    Copyright ©2022 All rights reserved | This template is made with♥ by Jojo
+</div>
+</footer>
+
+</body>
+
+</html>
